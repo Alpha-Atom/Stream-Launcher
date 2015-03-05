@@ -14,4 +14,5 @@ fuck it.
 
 When choosing the streamer you want to watch, input the number of the streamer from the list to choose. Again, code is not robust, so try not to fuck it.
 
+The releases are windows only, but can easily be run on any python capable machine, by cloning this repository and running the python script.
 
