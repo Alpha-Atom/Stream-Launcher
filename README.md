@@ -11,3 +11,7 @@ which is also done at my [GitHub page](https://alpha-atom.github.io/streamlaunch
 Add your authorisation code to the authcode.txt file and **only** edit the line with the authcode on and
 don't leave any whitespace, because right now I'm too lazy to make this code robust, so just don't
 fuck it.
+
+When choosing the streamer you want to watch, input the number of the streamer from the list to choose. Again, code is not robust, so try not to fuck it.
+
+
