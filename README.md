@@ -1,7 +1,7 @@
 # Stream-Launcher
 
 A neat little launcher that works with [Livestreamer](http://docs.livestreamer.io/) and the Twitch API to provide
-a quick launcher to your followers.
+a quick launcher to your followers. **You need Livestreamer installed for this to work.**
 
 You can download it [on my GitHub page](https://alpha-atom.github.io/streamlauncher).
 
